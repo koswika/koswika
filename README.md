@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Koswika+%F0%9F%91%8B;Full-Stack+%26+Minecraft+Dev;From+Oman+%F0%9F%87%B4%F0%9F%87%BB" />
 </div>
 
-<br />
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br />
+<br/>
 
 <h2 align="center">🧑‍💻 what i'm up to</h2>
 
@@ -25,7 +25,7 @@
 <tr>
 <td width="50%">
 
-**🔨 currently building**  
+**🔨 building**  
 full‑stack apps & Minecraft plugins
 
 **📚 learning**  
@@ -35,26 +35,26 @@ NestJS, FastAPI & Docker
 <td width="50%">
 
 **🎮 side quest**  
-custom Minecraft plugins (Java + Spigot/Paper)
+custom Minecraft plugins (Java)
 
 **🌮 fuel**  
-code runs on coffee & tacos
+code runs on tacos
 
 </td>
 </tr>
 </table>
 
-<br />
+<br/>
 
-<h2 align="center">🛠️ tech i mess with</h2>
+<h2 align="center">🛠️ tech i use</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nestjs,fastapi,react,git,docker,html,css,mysql,mongodb" />
 </p>
 
-<br />
+<br/>
 
-<h2 align="center">📊 stats that matter</h2>
+<h2 align="center">📊 github stats</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koswika&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" />
@@ -65,15 +65,19 @@ code runs on coffee & tacos
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koswika&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" />
 </p>
 
-<br />
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koswika&label=profile+views&color=3B82F6&style=flat-square" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koswika/koswika/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/koswika/koswika/output/snake.svg" alt="snake" />
 </p>
+
+<br/>
 
 <p align="center">
   <sub>💙 from koswika – code, minecraft, and tacos 🌮</sub>
