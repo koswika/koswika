@@ -1,34 +1,32 @@
-name: Generate Snake
+name: Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
       
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: koswika
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-          
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist
-          
-      - uses: peaceiris/actions-gh-pages@v3
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          user_name: github-actions
+          user_email: actions@github.com
+          commit_message: Update snake animation
           force_orphan: true
