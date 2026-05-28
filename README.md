@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Koswika;Full-Stack+Developer;Minecraft+Plugin+Developer" />
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -17,10 +19,14 @@
 
 ---
 
-**What I'm working on:** Full‑stack apps & Minecraft plugins  
-**Currently learning:** NestJS, FastAPI & Docker
+### 📌 About
+
+**What I'm working on:** Full‑stack applications & Minecraft plugins  
+**Currently learning:** NestJS, FastAPI & Docker  
 
 ---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nestjs,fastapi,react,git,docker,html,css,mysql,mongodb">
@@ -28,13 +34,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koswika&show_icons=true&theme=dark&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&hide_border=true&hide=contribs,issues">
-</p>
+### 📈 Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koswika&color=3B82F6&style=flat-square">
-</p>
+| Total Contributions | Current Streak | Profile Views |
+|--------------------|----------------|---------------|
+| 730+ | 59 days | <img src="https://komarev.com/ghpvc/?username=koswika&color=3B82F6&style=flat-square"> |
+
+---
 
 <p align="center">
   <sub>Koswika — Full-Stack Developer & Minecraft Plugin Developer</sub>
