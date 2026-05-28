@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Koswika;Full-Stack+Developer;Minecraft+Plugin+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Koswika;Full-Stack+Developer;Minecraft+Plugin+Developer" />
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -19,15 +17,10 @@
 
 ---
 
-### What I'm Working On
-
-| Building | Learning |
-|----------|----------|
-| Full‑stack applications & Minecraft plugins | NestJS, FastAPI & Docker |
+**What I'm working on:** Full‑stack apps & Minecraft plugins  
+**Currently learning:** NestJS, FastAPI & Docker
 
 ---
-
-### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nestjs,fastapi,react,git,docker,html,css,mysql,mongodb">
@@ -35,28 +28,9 @@
 
 ---
 
-### GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koswika&show_icons=true&theme=react&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&hide_border=true">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=koswika&theme=react&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=koswika&show_icons=true&theme=dark&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&hide_border=true&hide=contribs,issues">
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koswika&layout=compact&theme=react&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&hide_border=true">
-</p>
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koswika/koswika/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koswika/koswika/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/koswika/koswika/output/github-snake.svg" />
-</picture>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koswika&color=3B82F6&style=flat-square">
