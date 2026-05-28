@@ -36,9 +36,19 @@
 
 ### 📈 Stats
 
-| Total Contributions | Current Streak | Profile Views |
-|--------------------|----------------|---------------|
-| 730+ | 59 days | <img src="https://komarev.com/ghpvc/?username=koswika&color=3B82F6&style=flat-square"> |
+| Total Contributions | Current Streak |
+|--------------------|----------------|
+| 730+ | 59 days |
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koswika/koswika/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koswika/koswika/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/koswika/koswika/output/github-snake.svg" />
+</picture>
 
 ---
 
